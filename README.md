@@ -4,4 +4,9 @@ Two individual projects are avaialble in this repository: 1) Tableau_Portfolio_P
 
 Topics that are covered in this exploration include:
 
-
+1. Joins and Relations
+2. Bar, Map, Line charts and Tables
+3. ETL pipeline data cleaning
+4. Interactbale filters and sliders
+5. Grouping values, Calculated Fields and Parameters
+6. Horizontal and Vertical formatting
