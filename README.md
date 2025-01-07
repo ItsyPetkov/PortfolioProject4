@@ -15,3 +15,4 @@ Tableau_Portfolio_Project_1.twb Dashboard:
 ![image](https://github.com/user-attachments/assets/28a00a71-77b8-4ab0-9be6-47dc2482c717)
 
 Tableau_Portfolio_Project_2.twb Dashboard:
+![image](https://github.com/user-attachments/assets/ab2a2ef3-3e4b-4af3-9a5d-723f086e6429)
