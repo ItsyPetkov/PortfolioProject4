@@ -10,3 +10,8 @@ Topics that are covered in this exploration include:
 4. Interactbale filters and sliders
 5. Grouping values, Calculated Fields and Parameters
 6. Horizontal and Vertical formatting
+
+Tableau_Portfolio_Project_1.twb Dashboard:
+![image](https://github.com/user-attachments/assets/28a00a71-77b8-4ab0-9be6-47dc2482c717)
+
+Tableau_Portfolio_Project_2.twb Dashboard:
