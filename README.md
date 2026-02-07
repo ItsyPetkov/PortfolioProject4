@@ -2,6 +2,8 @@
 
 This portfolio project analyses British Airways passenger review data to evaluate service quality, customer satisfaction, and operational consistency across aircraft types, geographic markets, traveller segments, and time periods. Data processing and transformation are performed using Microsoft SQL Server, followed by exploratory analysis and interactive visualisation in Tableau to support executive-level reporting and insight generation.
 
+## Table of Contents
+
 ## Target Users: Executive Leadership, Operations & Customer Experience Management, Business Stakeholders
 
 This analysis is designed for airline leaders, operations managers, and customer experience professionals seeking to improve service quality and passenger satisfaction through data-driven insights. It delivers actionable intelligence across customer sentiment trends, service quality drivers, fleet-level experience variation, geographic performance differences, and traveller segmentation, enabling informed decisions on service optimisation, fleet investment prioritisation, and experience-led growth strategy.
@@ -58,6 +60,14 @@ The data for this project consists of two sperate spreadsheets: ba_reviews.csv, 
 Data processing is performed in MS SQL Server using the 'ETL_pipiline_for_Tableau.sql' script. For more information, please read through the 'Data Analysis Framework' section below. This results in the following datasets: 1) ba_reviews_cleande.csv; and 2) Countries_cleaned.csv. The cleaned datasets are used for the Exploratory Data Analysis (EDA) conducted in this project.
 
 ## Data Analysis Framework
+
+The following set of cleaning and transformation steps was implemented in this project:
+
+* Atomatic database population using BULK INSERT
+* Applying TRIM to remove unwanted whitespaces from all columns text columns
+* Duplicate checking with SELECT and removal with DELETE from all columns
+* Stardising date format using DATETIME
+* Replace semi-colons with commas using UPDATE
 
 ## Analytical Focus & Key Business Question
 
