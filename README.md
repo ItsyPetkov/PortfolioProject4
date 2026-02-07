@@ -83,7 +83,23 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Insights:**
 
+* Overall customer satisfaction averages 4.2, indicating acceptable but underwhelming performance.
+
+* Monthly ratings display high volatility, reflecting inconsistent service delivery.
+
+* No sustained upward trend is visible, suggesting limited long-term impact from current improvement initiatives.
+
+* Periodic declines imply vulnerability during peak operational stress periods.
+
+* Stability without improvement signals competitive risk in a customer-driven market.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Implement root-cause analysis on low-performing months to isolate operational drivers of customer dissatisfaction.
+* Establish experience consistency programs focused on standardising service quality across routes, aircraft, and crews.
+* Align frontline performance incentives with customer satisfaction metrics to reinforce accountability.
+* Enhance operational resilience during peak periods through staffing optimisation, contingency planning, and predictive demand modelling.
+* Introduce closed-loop customer feedback mechanisms to rapidly identify issues and validate improvement effectiveness.
 
 ### Question 2 Insights and recommendations
 
