@@ -171,4 +171,20 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Insights:**
 
+* Satisfaction varies significantly by traveller type and seat class.
+
+* Premium segments consistently outperform economy segments.
+
+* Economy dissatisfaction reflects comfort and value perception gaps.
+
+* Segment differences influence loyalty and repeat purchase behaviour.
+
+* Targeted interventions can unlock material revenue upside.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Enhance economy cabin comfort and service interaction points within cost constraints.
+* Develop differentiated experience strategies by traveller type.
+* Refine segmentation-based pricing and bundling strategies.
+* Target loyalty incentives toward high-risk, low-satisfaction segments.
+* Continuously monitor satisfaction at segment level to drive agile improvements.
