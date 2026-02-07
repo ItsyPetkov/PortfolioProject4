@@ -61,7 +61,7 @@ Data processing is performed in MS SQL Server using the 'ETL_pipiline_for_Tablea
 
 ## Analytical Focus & Key Business Question
 
-This section contains questions important to people from different teams in the British Airways company, including 1) Corporate Strategy Teams; 2) Fleet Planning, Engineering, and Operations Leadership; 3) Network Planning, and Commercial Teams; 4) Customer Experience; and 5) Marketing & Business Intelligence teams. According to them, these questions are worth exploring to identify key satisfaction drivers, uncovering structural service gaps, and highlighting fleet-level and regional performance variation. 
+This section contains questions important to people from different teams in the British Airways company, including 1) Corporate Strategy Teams; 2) Fleet Planning, Engineering, and Operations Leadership; 3) Network Planning, and Commercial Teams; 4) Customer Experience; and 5) Marketing & Business Intelligence teams. According to them, these questions are worth exploring to identify key satisfaction drivers, discovering structural service gaps, and highlighting fleet-level and regional performance variation. 
 
 List of business-related enquiries and their relevance:
 
