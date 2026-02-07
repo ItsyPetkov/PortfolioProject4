@@ -4,6 +4,18 @@ This portfolio project analyses British Airways passenger review data to evaluat
 
 ## Table of Contents
 
+- [Target Users](#target-users-executive-leadership-operations-customer-experience-management-business-stakeholders)
+- [Understanding the Data](#understanding-the-data)
+- [Data Analysis Framework](#data-analysis-framework)
+- [Analytical Focus & Key Business Questions](#analytical-focus--key-business-question)
+- [Key Insights & Strategic Action Recommendations](#key-insights--strategic-action-recommendations)
+  - [Interactive Dashboard](#interactive-dashboard)
+  - [Question 1 – Overall Satisfaction Trends](#question-1-insights-and-recommendations)
+  - [Question 2 – Aircraft-Level Experience Variation](#question-2-insights-and-recommendations)
+  - [Question 3 – Geographic Performance Differences](#question-3-insights-and-recommendations)
+  - [Question 4 – Service Quality Drivers](#question-4-insights-and-recommendations)
+  - [Question 5 – Segment-Specific Satisfaction Dynamics](#question-5-insights-and-recommendations)
+
 ## Target Users: Executive Leadership, Operations & Customer Experience Management, Business Stakeholders
 
 This analysis is designed for airline leaders, operations managers, and customer experience professionals seeking to improve service quality and passenger satisfaction through data-driven insights. It delivers actionable intelligence across customer sentiment trends, service quality drivers, fleet-level experience variation, geographic performance differences, and traveller segmentation, enabling informed decisions on service optimisation, fleet investment prioritisation, and experience-led growth strategy.
