@@ -53,6 +53,7 @@ The data for this project consists of two sperate spreadsheets: ba_reviews.csv, 
 </tr>
 </table>
 
+Data processing is performed in MS SQL using the 'ETL_pipiline_for_Tableau.sql' script. This results in the following datasets: 1) ba_reviews_cleande.csv; and 2) Countries_cleaned.csv. The cleaned datasets are used for the Exploratory Data Analysis (EDA) conducted in Tableau.
 
 ## Data Analysis Framework
 
