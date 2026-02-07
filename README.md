@@ -6,6 +6,54 @@ This analysis is designed for airline leaders, operations managers, and customer
 
 ## Understanding the Data
 
+The data for this project consists of two sperate spreadsheets: ba_reviews.csv, Countries.csv
+
+<table>
+<tr>
+<td valign="top">
+
+**ba_reviews Table**
+
+| Column Name        | Data Type  |
+|--------------------|------------|
+| header             | Text       |
+| author             | Text       |
+| date               | Date       |
+| place              | Text       |
+| content            | Text       |
+| aircraft           | Text       |
+| traveller_type     | Text       |
+| seat_type          | Text       |
+| route              | Text       |
+| date_flown         | Date       |
+| recommended        | Text       |
+| trip_verified      | Text       |
+| rating             | Number     |
+| seat_comfort       | Number     |
+| cabin_staff_service| Number     |
+| food_beverages     | Number     |
+| ground_service     | Number     |
+| value_for_money    | Number     |
+| entertainment      | Number     |
+
+
+</td>
+<td valign="top">
+
+**Countries Table**
+
+| Column Name   | Data Type  |
+|---------------|------------|
+| Country       | Text       |
+| Code          | Text       |
+| Continent     | Text       |
+| Region        | Text       |
+
+</td>
+</tr>
+</table>
+
+
 ## Data Analysis Framework
 
 ## Analytical Focus & Key Business Question
