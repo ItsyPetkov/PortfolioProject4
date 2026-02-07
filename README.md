@@ -4,7 +4,7 @@ This portfolio project analyses British Airways passenger review data to evaluat
 
 ## Table of Contents
 
-- [Target Users](#target-users-executive-leadership-operations-customer-experience-management-business-stakeholders)
+- [Target Users](#target-users-executive-leadership-operations--customer-experience-management-business-stakeholders)
 - [Understanding the Data](#understanding-the-data)
 - [Data Analysis Framework](#data-analysis-framework)
 - [Analytical Focus & Key Business Questions](#analytical-focus--key-business-question)
