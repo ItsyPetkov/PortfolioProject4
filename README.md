@@ -69,6 +69,8 @@ The following set of cleaning and transformation steps was implemented in this p
 * Stardising date format using DATETIME
 * Replace semi-colons with commas using UPDATE
 
+Next stages involve: 1) data visualisation by producing dynamic, interactive dashboards in Tableau using GEOGRAPHIC MAPS, LINE and HORIZONTAL BAR CHARTS and multipl PARAMETERS, FILTERS and CALCULATED MEASURES; and 2) data storytelling by delivering a comprehensive analysis report using MS PowerPoint. The output of both steps is available in the GitHub repository under 'Tableau_Portfolio_Project.twb' and 'Stakeholder report.pptx', respectively.
+
 ## Analytical Focus & Key Business Question
 
 This section contains questions important to people from different teams in the British Airways company, including 1) Corporate Strategy Teams; 2) Fleet Planning, Engineering, and Operations Leadership; 3) Network Planning, and Commercial Teams; 4) Customer Experience; and 5) Marketing & Business Intelligence teams. According to them, these questions are worth exploring to identify key satisfaction drivers, discovering structural service gaps, and highlighting fleet-level and regional performance variation. 
