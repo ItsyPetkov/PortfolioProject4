@@ -149,7 +149,23 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Insights:**
 
+* Entertainment is the lowest-rated service dimension, representing a major experience gap.
+
+* Food, beverage and seat comfort also significantly underperform in terms of expectations.
+
+* Interpersonal service performs comparatively better.
+
+* Onboard product quality now dominates satisfaction outcomes.
+
+* Targeted improvements can generate high-impact experience gains.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Prioritise inflight entertainment system upgrades, focusing on reliability and content breadth.
+* Redesign onboard food and beverage strategy to align with premium customer expectations.
+* Accelerate seat comfort enhancement initiatives, especially on long-haul aircraft.
+* Re-evaluate value proposition and pricing alignment to improve perceived value for money.
+* Introduce continuous monitoring of service dimension Key Performance Indicators (KPI).
 
 ### Question 5 Insights and recommendations
 
