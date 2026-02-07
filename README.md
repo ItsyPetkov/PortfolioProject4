@@ -105,7 +105,23 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Insights:**
 
+* Customer ratings vary significantly across aircraft types, indicating inconsistent onboard experience.
+
+* Wide-body aircraft generally achieve higher satisfaction, particularly on long-haul routes.
+
+* Lower-rated aircraft likely reflect outdated interiors and inferior cabin configurations.
+
+* Experience inconsistency weakens brand coherence and customer trust.
+
+* Fleet composition is a critical driver of satisfaction outcomes.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Prioritise refurbishment of lowest-rated aircraft types to rapidly lift baseline experience.
+* Incorporate customer satisfaction metrics into fleet investment decision-making.
+* Standardise cabin experience guidelines across aircraft wherever operationally feasible.
+* Accelerate retirement of persistently underperforming aircraft models.
+* Use aircraft-level feedback to inform interior design and seat configuration strategy.
 
 ### Question 3 Insights and recommendations
 
