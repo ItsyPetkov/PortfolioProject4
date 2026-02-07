@@ -127,7 +127,23 @@ This section presents a concise overview of the patterns and trends revealed thr
 
 **Key Insights:**
 
+* Customer satisfaction varies substantially by country, reflecting uneven service execution.
+
+* Local operational conditions significantly influence customer perception.
+
+* Some regions act as best-practice benchmarks, while others require targeted intervention.
+
+* Geographic inconsistency undermines brand coherence.
+
+* Localised improvement strategies are more effective than broad global initiatives.
+
 **Based on this analysis, I recommend the following actions:**
+
+* Conduct regional deep-dive diagnostics to isolate root causes of dissatisfaction.
+* Deploy targeted operational improvement programs in lowest-performing markets.
+* Replicate best practices from high-performing regions across the network.
+* Strengthen local accountability structures for service quality delivery.
+* Align airport partner performance metrics with customer satisfaction Key Performance Indicators (KPI).
 
 ### Question 4 Insights and recommendations
 
