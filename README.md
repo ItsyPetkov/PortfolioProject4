@@ -78,3 +78,33 @@ This section presents a concise overview of the patterns and trends revealed thr
 ### Interactive Dashboard
 
 ![image](https://github.com/user-attachments/assets/ab2a2ef3-3e4b-4af3-9a5d-723f086e6429)
+
+### Question 1 Insights and recommendations
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 2 Insights and recommendations
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 3 Insights and recommendations
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 4 Insights and recommendations
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
+
+### Question 5 Insights and recommendations
+
+**Key Insights:**
+
+**Based on this analysis, I recommend the following actions:**
