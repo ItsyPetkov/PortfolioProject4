@@ -1,5 +1,7 @@
 # Passenger Experience Intelligence Dashboard – British Airways Service Quality, Fleet & Satisfaction Optimisation Study
 
+This portfolio project analyses British Airways passenger review data to evaluate service quality, customer satisfaction, and operational consistency across aircraft types, geographic markets, traveller segments, and time periods. Data processing and transformation are performed using Microsoft SQL Server, followed by exploratory analysis and interactive visualisation in Tableau to support executive-level reporting and insight generation.
+
 ## Target Users: Executive Leadership, Operations & Customer Experience Management, Business Stakeholders
 
 This analysis is designed for airline leaders, operations managers, and customer experience professionals seeking to improve service quality and passenger satisfaction through data-driven insights. It delivers actionable intelligence across customer sentiment trends, service quality drivers, fleet-level experience variation, geographic performance differences, and traveller segmentation, enabling informed decisions on service optimisation, fleet investment prioritisation, and experience-led growth strategy.
